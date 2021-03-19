@@ -1,4 +1,5 @@
 // C++ Program for finding out majority element in an array 
+//  A majority element in an array A[] of size n is an element that appears more than n/2 times 
 // Moore’s Voting Algorithm
 #include <bits/stdc++.h>
 using namespace std;
