@@ -1,5 +1,4 @@
-// C++ Program for finding out
-// majority element in an array 
+// C++ Program for finding out majority element in an array 
 // Moore’s Voting Algorithm
 #include <bits/stdc++.h>
 using namespace std;
